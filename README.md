@@ -8,4 +8,4 @@
 - VS Code
 
 ## Author
-[Raphael Olaniyi] — SKILL.SCH Cloud Lab
+Raphael Olaniyi — SKILL.SCH Cloud Lab
